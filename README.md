@@ -40,7 +40,8 @@
 
 - 환경부 장관상 수상
 <img width="400" alt="KakaoTalk_20221009_170250918_01" src="https://github.com/rldhks0543/weather-data-contest-2022/assets/114603826/8c1d72b7-73b0-4618-b208-dd251028f173">
-
+  
+  
 ※ 최종 보고서
 
 [[최종공모안] 2차_2과제_220052_K-로켓단.pdf](https://github.com/rldhks0543/weather-data-contest-2022/files/13936305/2._2._220052_K-.pdf)
