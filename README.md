@@ -43,7 +43,7 @@
 
 ※ 최종 보고서
 
-[[최종공모안] 2차_2과제_220052_K-로켓단.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44fe77f4-b898-450c-9df1-4887b525d465/%EC%B5%9C%EC%A2%85%EA%B3%B5%EB%AA%A8%EC%95%88_2%EC%B0%A8_2%EA%B3%BC%EC%A0%9C_220052_K-%EB%A1%9C%EC%BC%93%EB%8B%A8.pdf)
+[[최종공모안] 2차_2과제_220052_K-로켓단.pdf](https://github.com/rldhks0543/weather-data-contest-2022/files/13936305/2._2._220052_K-.pdf)
 
 ### 💡 성장 경험
 
