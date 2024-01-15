@@ -1,6 +1,6 @@
 # 
 
-![2차 대회-과제2 : 기상(날씨)에 따른 혈관 질환 발생 예측 모델 개발 참여](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/371eb83d-f2dc-4f12-9c56-a309bf1cef07/%EB%82%A0%EC%94%A8%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B02022(%EC%B5%9C%EC%A2%85)__%EA%B8%B0%EA%B0%84%EC%97%B0%EC%9E%A5.png)
+![★날씨빅데이터2022(최종)_ 기간연장](https://github.com/rldhks0543/weather-data-contest-2022/assets/114603826/c13f0a13-6845-47f7-89c8-a2fe7690b280)
 
 2차 대회-과제2 : 기상(날씨)에 따른 혈관 질환 발생 예측 모델 개발 참여
 
