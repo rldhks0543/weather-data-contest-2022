@@ -25,7 +25,7 @@
 ### 👨‍💼 **역할**
 
 - 프로젝트 전체 인원 : 본인 포함 5명
-- 나의 역할과 기여도 *(# 화살표(▶) 클릭시 자세한 내용 조회 가능)*
+- 나의 역할과 기여도
     - 심뇌혈관 질환과 관련된 선행 연구에 기반하여 유의미한 변수를 선정
         
         크게 기상, 대기질, 인구학적 특성, 개인 건강 조사 4가지 분류로 나누었으며 각 분류 별 선행 연구를 토대로 변수를 선정하였습니다.
@@ -39,9 +39,7 @@
 
 - 환경부 장관상 수상
 
-![KakaoTalk_20221009_170250918.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65b6bebb-37ac-477c-8aa3-300a42d180ab/KakaoTalk_20221009_170250918.jpg)
-
-![KakaoTalk_20221009_170250918_01.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a3ab444-8743-49ac-abe0-49a20b7c0de8/KakaoTalk_20221009_170250918_01.jpg)
+![KakaoTalk_20221009_170250918_01](https://github.com/rldhks0543/weather-data-contest-2022/assets/114603826/8c1d72b7-73b0-4618-b208-dd251028f173)
 
 ※ 최종 보고서
 
