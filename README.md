@@ -39,7 +39,7 @@
 ### 🏆 **성과**
 
 - 환경부 장관상 수상
-<img width="400" alt="KakaoTalk_20221009_170250918_01" src="KakaoTalk_20221009_170250918_01](https://github.com/rldhks0543/weather-data-contest-2022/assets/114603826/8c1d72b7-73b0-4618-b208-dd251028f173">
+<img width="400" alt="KakaoTalk_20221009_170250918_01" src="https://github.com/rldhks0543/weather-data-contest-2022/assets/114603826/8c1d72b7-73b0-4618-b208-dd251028f173">
 
 ※ 최종 보고서
 
